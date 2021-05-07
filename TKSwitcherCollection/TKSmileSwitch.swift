@@ -137,7 +137,7 @@ private class TKSmileFaceView: UIView {
         mouth.path = mouthPath.cgPath
         mouth.strokeColor = UIColor.white.cgColor
         mouth.fillColor = UIColor.clear.cgColor
-        mouth.lineCap = "round"
+        mouth.lineCap = convertToCAShapeLayerLineCap("round")
         mouth.lineWidth = 10 * sizeScale
         layer.addSublayer(mouth)
 
@@ -167,4 +167,9 @@ private class TKSmileFaceView: UIView {
         layer.add(rotationTransformAnim, forKey: "Rotation")
     }
 
+}
+
+// Helper function inserted by Swift 4.2 migrator.
+fileprivate func convertToCAShapeLayerLineCap(_ input: String) -> CAShapeLayerLineCap {
+	return CAShapeLayerLineCap(rawValue: input)
 }

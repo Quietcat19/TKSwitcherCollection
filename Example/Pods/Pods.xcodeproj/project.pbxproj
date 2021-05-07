@@ -41,7 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		12DF1CAF9E511EDF2F0D3B8A05E580DF /* Pods_TKSwitcherCollection_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TKSwitcherCollection_Example.framework; path = "Pods-TKSwitcherCollection_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		12DF1CAF9E511EDF2F0D3B8A05E580DF /* Pods_TKSwitcherCollection_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TKSwitcherCollection_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2595993C81FCE408DC3AF5A0F23D342F /* TKSwitcherCollection-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TKSwitcherCollection-umbrella.h"; sourceTree = "<group>"; };
 		286105934657A279CCBEB7BEB0EBB1B1 /* TKLiquidSwitch.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TKLiquidSwitch.swift; path = TKSwitcherCollection/TKLiquidSwitch.swift; sourceTree = "<group>"; };
 		286343C4CCE5BE7A8E7461F849015DC1 /* Pods-TKSwitcherCollection_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TKSwitcherCollection_Example-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -49,13 +49,13 @@
 		2D073BD074568840551386A2E1EC5B88 /* TKSwitcherCollection-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TKSwitcherCollection-prefix.pch"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		328E83B78E401F78E9D28695AB6C3148 /* Pods-TKSwitcherCollection_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TKSwitcherCollection_Example-Info.plist"; sourceTree = "<group>"; };
-		34C70F149E8E08CA949520B0A306BF0F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		34C70F149E8E08CA949520B0A306BF0F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		3AB084FE146B333E636BFF6BF93F4EAF /* Pods-TKSwitcherCollection_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TKSwitcherCollection_Example-umbrella.h"; sourceTree = "<group>"; };
 		3AD3D0E45AE181AEB731CD6599D858F1 /* TKExchangeSwitch.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TKExchangeSwitch.swift; path = TKSwitcherCollection/TKExchangeSwitch.swift; sourceTree = "<group>"; };
 		4453548DE980C1E2477908382CCD942A /* Pods-TKSwitcherCollection_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TKSwitcherCollection_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		46386B9EB6168FD99B1845AFCAE24280 /* Pods-TKSwitcherCollection_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TKSwitcherCollection_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		5639D9C1218D92EDC9448CDA48131BC5 /* Pods-TKSwitcherCollection_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TKSwitcherCollection_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		56FAF97E7365705AE2F343FC55142177 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		56FAF97E7365705AE2F343FC55142177 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5952F3F6A2C17CECB6DDEE832EB79136 /* TKSwitcherCollection.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TKSwitcherCollection.modulemap; sourceTree = "<group>"; };
 		5D34ED4B35A9760941D4D6ECD9D68B26 /* Pods-TKSwitcherCollection_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TKSwitcherCollection_Tests-Info.plist"; sourceTree = "<group>"; };
 		5E7ED1D0EEE70AC8911AE6F84F5CA3C2 /* TKSmileSwitch.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TKSmileSwitch.swift; path = TKSwitcherCollection/TKSmileSwitch.swift; sourceTree = "<group>"; };
@@ -65,17 +65,17 @@
 		878464F84804E3B76A20BCBB7CC6C460 /* Pods-TKSwitcherCollection_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TKSwitcherCollection_Tests-umbrella.h"; sourceTree = "<group>"; };
 		8BB05BFFBB466498237A00C1D3A197EB /* TKBaseSwitcher.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TKBaseSwitcher.swift; path = TKSwitcherCollection/TKBaseSwitcher.swift; sourceTree = "<group>"; };
 		92F388956F9074FBC206CC5E7F6CBC81 /* TKSwitcherCollection-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "TKSwitcherCollection-Info.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A9BF8155E2CE1146EAA62DD9C42D5D35 /* Pods-TKSwitcherCollection_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TKSwitcherCollection_Example.modulemap"; sourceTree = "<group>"; };
 		C9715CAD9A2A6CF079030CC840A40C80 /* Pods-TKSwitcherCollection_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TKSwitcherCollection_Example-frameworks.sh"; sourceTree = "<group>"; };
-		CB5943761CA998C0DDD23524BF5E4A52 /* TKSwitcherCollection.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = TKSwitcherCollection.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		CB5943761CA998C0DDD23524BF5E4A52 /* TKSwitcherCollection.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = TKSwitcherCollection.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		D1F916354BB2176C9A7C6F0B45A5A33B /* TKSimpleSwitch.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TKSimpleSwitch.swift; path = TKSwitcherCollection/TKSimpleSwitch.swift; sourceTree = "<group>"; };
 		D8BD826FE099753A2C26D439A4812556 /* Pods-TKSwitcherCollection_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TKSwitcherCollection_Example-dummy.m"; sourceTree = "<group>"; };
 		DDF90D47765433D2D617BA004000F6EE /* Pods-TKSwitcherCollection_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TKSwitcherCollection_Tests.modulemap"; sourceTree = "<group>"; };
-		E7B9BB6F86DC9A7C789E176524CE923F /* Pods_TKSwitcherCollection_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TKSwitcherCollection_Tests.framework; path = "Pods-TKSwitcherCollection_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E7B9BB6F86DC9A7C789E176524CE923F /* Pods_TKSwitcherCollection_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TKSwitcherCollection_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAE23198C103C1A23A4BE341EC723B99 /* TKSwitcherCollection-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TKSwitcherCollection-dummy.m"; sourceTree = "<group>"; };
 		FAA061231197080E157A8A2E07305D20 /* TKSwitcherCollection.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TKSwitcherCollection.xcconfig; sourceTree = "<group>"; };
-		FD03240D14A474F946E103C20DE8675B /* TKSwitcherCollection.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TKSwitcherCollection.framework; path = TKSwitcherCollection.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD03240D14A474F946E103C20DE8675B /* TKSwitcherCollection.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TKSwitcherCollection.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF7802F13AC4FB57F280995A17E0C8FB /* Pods-TKSwitcherCollection_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TKSwitcherCollection_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -327,6 +327,11 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
+				TargetAttributes = {
+					398899666F79054814B1CFC2969F51E1 = {
+						LastSwiftMigration = 1250;
+					};
+				};
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -469,7 +474,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/TKSwitcherCollection/TKSwitcherCollection-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/TKSwitcherCollection/TKSwitcherCollection-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/TKSwitcherCollection/TKSwitcherCollection.modulemap";
 				PRODUCT_MODULE_NAME = TKSwitcherCollection;
@@ -477,7 +482,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -570,8 +575,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -724,7 +728,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/TKSwitcherCollection/TKSwitcherCollection-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/TKSwitcherCollection/TKSwitcherCollection-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/TKSwitcherCollection/TKSwitcherCollection.modulemap";
 				PRODUCT_MODULE_NAME = TKSwitcherCollection;
@@ -732,7 +736,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
