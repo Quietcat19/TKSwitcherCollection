@@ -26,7 +26,7 @@ open class TKBaseSwitch: UIControl {
         }
     }
 
-    internal var on: Bool = true
+    internal var on: Bool = false
     internal var sizeScale: CGFloat {
         return min(self.bounds.width, self.bounds.height)/100.0
     }
@@ -88,7 +88,7 @@ open class TKBaseSwitch: UIControl {
         self.on.toggle()
         valueChange?(!isOn)
         sendActions(for: UIControl.Event.valueChanged)
-        changeValueAnimate(isOn, duration: animateDuration)
+        changeValueAnimate(!isOn, duration: animateDuration)
     }
     
     internal func changeValueAnimate(_ value: Bool, duration: Double) {
