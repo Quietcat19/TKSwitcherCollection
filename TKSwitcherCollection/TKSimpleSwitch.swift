@@ -64,6 +64,21 @@ open class TKSimpleSwitch: TKBaseSwitch {
             resetView()
         }
     }
+    @IBInspectable open var circleShadowColor: CGColor = UIColor.clear.cgColor {
+        didSet {
+            resetView()
+        }
+    }
+    @IBInspectable open var circleShadowOpacity: Float = 0 {
+        didSet {
+            resetView()
+        }
+    }
+    @IBInspectable open var circleShadowOffset: CGSize = CGSize.zero {
+        didSet {
+            resetView()
+        }
+    }
     @IBInspectable open  var lineSize: Double = 10 {
         didSet {
             resetView()
@@ -101,6 +116,11 @@ open class TKSimpleSwitch: TKBaseSwitch {
         swichControl.strokeColor = circleColor.cgColor
         swichControl.lineWidth   = innerLineWidth
         swichControl.strokeEnd = 0.0001
+        
+        swichControl.shadowColor = circleShadowColor
+        swichControl.shadowOpacity = circleShadowOpacity
+        swichControl.shadowOffset = circleShadowOffset
+        
         layer.addSublayer(swichControl)
 
     }
